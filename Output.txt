@@ -1,0 +1,61 @@
+run:
+Enter the maze height: 5
+Enter the maze width: 5
+Enter line 1 of the maze: 11111
+Enter line 2 of the maze: b010e
+Enter line 3 of the maze: 10101
+Enter line 4 of the maze: 10001
+Enter line 5 of the maze: 11111
+
+Solution 1:
+11111
+bp1pe
+1p1p1
+1ppp1
+11111
+
+BUILD SUCCESSFUL (total time: 31 seconds)
+
+run:
+Enter the maze height: 6
+Enter the maze width: 6
+Enter line 1 of the maze: 111111
+Enter line 2 of the maze: b0110e
+Enter line 3 of the maze: 100101
+Enter line 4 of the maze: 100101
+Enter line 5 of the maze: 100001
+Enter line 6 of the maze: 111111
+
+Solution 1:
+111111
+bp11pe
+1pp1p1
+1pp1p1
+1pppp1
+111111
+
+Solution 2:
+111111
+bp11pe
+1pp1p1
+10p1p1
+10ppp1
+111111
+
+Solution 3:
+111111
+bp11pe
+1p01p1
+1pp1p1
+10ppp1
+111111
+
+Solution 4:
+111111
+bp11pe
+1p01p1
+1p01p1
+1pppp1
+111111
+
+BUILD SUCCESSFUL (total time: 50 seconds)
